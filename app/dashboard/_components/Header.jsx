@@ -76,7 +76,7 @@ function Header() {
           onClick={closeMobileMenu}
         >
           <Bot className="text-indigo-600" size={28} />
-          <span className="text-xl sm:text-2xl font-bold text-indigo-600">MockMate AI</span>
+          <span className="text-xl sm:text-2xl font-bold text-indigo-600">InsightAI</span>
         </Link>
 
         {/* Desktop Navigation */}
